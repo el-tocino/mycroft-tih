@@ -15,3 +15,7 @@ Known issues:
 
 TODO:
  - ...
+
+## Credits
+
+@btothayre wrote this originally.
